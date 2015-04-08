@@ -24,7 +24,7 @@ if (argv.m) {
 	// MODE 1 : node.js code
 	// ---------------------
 	
-	var movies = [];
+	var movies = [{"quality":"720p","episode":"773","seeders":193,"size":335400000,"id":"72454","season":"a","link":"magnet:?xt=urn:btih:c19fc3001ba8dfeb9924375852b5428de9aa6b95&tr=http://open.nyaatorrents.info:6544/announce"}];
 	
 	// Here must be a console.log() to return JSON.
 	console.log(JSON.stringify(movies));
